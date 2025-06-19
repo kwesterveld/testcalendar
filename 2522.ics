@@ -6769,18 +6769,6 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:{{categorie}}
-DTSTART;TZID=Europe/Amsterdam:20260213T090000
-DTEND;TZID=Europe/Amsterdam:20260213T170000
-DESCRIPTION:
-LOCATION:Locatie
-UID:197055
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:OS 2026 Schaatsen\nOS 2026\nNOS tav Afdeling F&A\nSlomoregie\nMemo			: Job Number		: 197055\nService			: \nJob Name		: \n\n\n\nAan deze planning kunnen geen rechten worden ontleend.\n\n\nMet vriendelijke groet,\nPlanning
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:{{categorie}}
 DTSTART;TZID=Europe/Amsterdam:20260214T090000
 DTEND;TZID=Europe/Amsterdam:20260214T170000
 DESCRIPTION:
@@ -6867,6 +6855,18 @@ BEGIN:VEVENT
 CATEGORIES:{{categorie}}
 DTSTART;TZID=Europe/Amsterdam:20260221T150000
 DTEND;TZID=Europe/Amsterdam:20260221T170000
+DESCRIPTION:
+LOCATION:Locatie
+UID:197063
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:OS 2026 Schaatsen\nOS 2026\nNOS tav Afdeling F&A\nSlomoregie\nMemo			: Job Number		: 197063\nService			: \nJob Name		: \n\n\n\nAan deze planning kunnen geen rechten worden ontleend.\n\n\nMet vriendelijke groet,\nPlanning
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:{{categorie}}
+DTSTART;TZID=Europe/Amsterdam:20260223T150000
+DTEND;TZID=Europe/Amsterdam:20260223T170000
 DESCRIPTION:
 LOCATION:Locatie
 UID:197063
