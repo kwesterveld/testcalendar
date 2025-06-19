@@ -133,18 +133,6 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:{{categorie}}
-DTSTART;TZID=Europe/Amsterdam:20240627T090000
-DTEND;TZID=Europe/Amsterdam:20240627T170000
-DESCRIPTION:
-LOCATION:Studio
-UID:152037
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Kantoor\nAfwezigheid\nArgus Productions B.V.\nKantoor\nMemo			: Job Number		: 152037\nService			: Kantoor\nJob Name		: \n\n\n\nAan deze planning kunnen geen rechten worden ontleend.\n\n\nMet vriendelijke groet,\nPlanning
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:{{categorie}}
 DTSTART;TZID=Europe/Amsterdam:20240627T180000
 DTEND;TZID=Europe/Amsterdam:20240628T000000
 DESCRIPTION:
@@ -6884,7 +6872,7 @@ LOCATION:Locatie
 UID:197065
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Voetbal \nOS 2026\nNOS tav Afdeling F&A\nSlomoregie\nMemo			: Job Number		: 197063\nService			: \nJob Name		: \n\n\n\nAan deze planning kunnen geen rechten worden ontleend.\n\n\nMet vriendelijke groet,\nPlanning
+SUMMARY:Gewijzigd \nOS 2026\nNOS tav Afdeling F&A\nSlomoregie\nMemo			: Job Number		: 197063\nService			: \nJob Name		: \n\n\n\nAan deze planning kunnen geen rechten worden ontleend.\n\n\nMet vriendelijke groet,\nPlanning
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -6897,6 +6885,18 @@ UID:197067
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Basketbal \nOS 2026\nNOS tav Afdeling F&A\nSlomoregie\nMemo			: Job Number		: 197063\nService			: \nJob Name		: \n\n\n\nAan deze planning kunnen geen rechten worden ontleend.\n\n\nMet vriendelijke groet,\nPlanning
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:{{categorie}}
+DTSTART;TZID=Europe/Amsterdam:20260225T150000
+DTEND;TZID=Europe/Amsterdam:20260225T170000
+DESCRIPTION:
+LOCATION:Locatie
+UID:197068
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Toegevoegd \nOS 2026\nNOS tav Afdeling F&A\nSlomoregie\nMemo			: Job Number		: 197063\nService			: \nJob Name		: \n\n\n\nAan deze planning kunnen geen rechten worden ontleend.\n\n\nMet vriendelijke groet,\nPlanning
 TRANSP:OPAQUE
 END:VEVENT
 
